@@ -34,7 +34,7 @@ The **Morse Code Translator** is a Jetpack Compose-based Android application tha
 3. **Build and Run on an Emulator or Physical Device**
 
 ## 📸 Screenshots
-![Image](https://github.com/user-attachments/assets/bf4ded9f-febb-4070-94dc-c6ac76464eba)
+![Image](https://github.com/user-attachments/assets/3220e991-237a-46bf-8c0a-32bdbea86f8c)
 
 ## 📝 Usage
 1. **Enter text** in the input field to convert it to Morse code.
